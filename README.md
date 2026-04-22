@@ -19,7 +19,7 @@ A Python-based email client with GUI for sending and receiving emails via SMTP a
 ## Installation
 
 ```bash
-git clone https://github.com/AlaaEmara17/Network_Lab2.git
+git clone https://github.com/AlaaEmara17/SMTP-IMAP-Protocol-Implementation-.git
 cd Network_Lab2
 pip install plyer  # Optional
 python gui.py
@@ -63,7 +63,3 @@ Modular design with separation of email logic and GUI. Uses threading for networ
 - Debug logs available in console
 
 
-## Author
-
-Alaa Emara - [GitHub](https://github.com/AlaaEmara17/Network_Lab2)</content>
-<parameter name="filePath">c:\Users\alaae\OneDrive\Desktop\Network_Lab2\README.md
